@@ -53,7 +53,7 @@ const HeroSection = () => {
               Dribble
             </NextLink>
             <NextLink
-              href="https://docs.google.com/document/d/1LSFObQHtXuvMXh_Z5S8qX_rol8jh6x-n/edit?usp=sharing&ouid=109307641309830049614&rtpof=true&sd=true"
+              href="https://docs.google.com/document/d/1x29FUl-PM4pwNRPa5m0DU_knZQYAccIwjDq8APNITd4/edit?usp=sharing"
               target="_blank"
               className="text-neutral-100 font-semibold cursor-pointer px-3 md:px-6 py-3 bg-teal-600 rounded shadow hover:bg-teal-700">
               My Resume
